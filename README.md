@@ -20,7 +20,7 @@ To capture live network packets using Wireshark, identify at least three differe
 
 # Protocols Identified:
 ## 1. **DNS (Domain Name System)**
-- Resolves human-readable domain names (e.g., google.com) into IP addresses.
+- Resolves human-readable domain names  (wikipidia.com) into IP addresses.
 - Observed DNS query and response packets.
 
 ## 2. **HTTP (Hypertext Transfer Protocol)**
